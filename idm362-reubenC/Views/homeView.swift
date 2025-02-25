@@ -48,7 +48,7 @@ struct homeView: View {
                     
                 }
                 .frame(width: 368, height: 175)
-                .background(Color("primaryColor"))
+                .background(Color("pColor"))
                 .cornerRadius(27)
                 .shadow(color: .white.opacity(0.2), radius: 1.5, x: 0, y: 4)
                 .position(x: 200, y: 240)
@@ -79,7 +79,7 @@ struct homeView: View {
                     }
                 }
                 .frame(width: 368, height: 175)
-                .background(Color("primaryColor"))
+                .background(Color("pColor"))
                 .cornerRadius(27)
                 .shadow(color: .white.opacity(0.2), radius: 1.5, x: 0, y: 4)
                 
@@ -122,7 +122,7 @@ struct homeView: View {
                     }
                 }
                 .frame(width: 368, height: 139)
-                .background(Color("primaryColor"))
+                .background(Color("pColor"))
                 .cornerRadius(27)
                 .shadow(color: .white.opacity(0.2), radius: 1.5, x: 0, y: 4)
                 .position(x: 200, y: 618)

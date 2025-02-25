@@ -27,7 +27,7 @@ struct profileView: View {
                         .position(x: 320, y: 34)
                 }
                 .frame(width: 368, height: 69)
-                .background(Color("primaryColor"))
+                .background(Color("pColor"))
                 .cornerRadius(10)
                 .shadow(color: .white.opacity(0.2), radius: 1.5, x: 0, y: 4)
                 .position(x: 200, y: 370)
@@ -41,7 +41,7 @@ struct profileView: View {
                         .position(x: 320, y: 34)
                 }
                 .frame(width: 368, height: 69)
-                .background(Color("primaryColor"))
+                .background(Color("pColor"))
                 .cornerRadius(10)
                 .shadow(color: .white.opacity(0.2), radius: 1.5, x: 0, y: 4)
                 .position(x: 200, y: 460)
@@ -80,7 +80,7 @@ struct profileView: View {
                     
                 }
                 .frame(width: 368, height: 139)
-                .background(Color("primaryColor"))
+                .background(Color("pColor"))
                 .cornerRadius(27)
                 .shadow(color: .white.opacity(0.2), radius: 1.5, x: 0, y: 4)
                 .position(x: 200, y: 675)
@@ -115,7 +115,7 @@ struct profileView: View {
                     }
                 }
                 .frame(width: 368, height: 139)
-                .background(Color("primaryColor"))
+                .background(Color("pColor"))
                 .cornerRadius(27)
                 .shadow(color: .white.opacity(0.2), radius: 1.5, x: 0, y: 4)
                 .position(x: 200, y: 845)
