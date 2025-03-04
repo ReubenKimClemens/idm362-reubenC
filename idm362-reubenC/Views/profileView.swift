@@ -15,7 +15,7 @@ struct profileView: View {
                     .font(.largeTitle)
                     .fontWeight(.black)
                     .position(x: 200, y:100)
-                Image("user-light")
+                Image("userProfile")
                     .position(x:200, y:230)
                 ZStack {
                     Text("Setting")
