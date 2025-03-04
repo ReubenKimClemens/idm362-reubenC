@@ -41,7 +41,7 @@ struct homeView: View {
                     )
                     .opacity(0.5)
                 }
-                
+                Spacer()
             }
         }
     }
